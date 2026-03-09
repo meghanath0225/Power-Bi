@@ -14,7 +14,7 @@ The analysis focuses on employee attrition across multiple dimensions including 
 
 ## 📷 Dashboard Preview
 
-c:\Users\vutti\OneDrive\Pictures\Screenshots\Screenshot 2026-03-05 191943.png
+![alt text](image.png)
 
 ---
 
