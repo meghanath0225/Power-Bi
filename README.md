@@ -1,0 +1,127 @@
+# 📊 HR Attrition Analytics Dashboard (Power BI)
+
+---
+
+## 📌 Project Overview
+
+The **HR Attrition Analytics Dashboard** is an interactive **Power BI data analytics project** designed to analyze employee turnover and identify key factors influencing attrition within an organization.
+
+This dashboard enables HR teams to monitor workforce trends, detect high-risk employee groups, and make **data-driven decisions to improve employee retention strategies**.
+
+The analysis focuses on employee attrition across multiple dimensions including **department, job role, age group, and salary level**.
+
+---
+
+## 📷 Dashboard Preview
+
+c:\Users\vutti\OneDrive\Pictures\Screenshots\Screenshot 2026-03-05 191943.png
+
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project are:
+
+- Analyze employee attrition trends within the organization
+- Identify departments and job roles with high turnover
+- Understand demographic patterns related to attrition
+- Evaluate the impact of salary levels on employee retention
+- Provide actionable insights to support HR decision-making
+
+---
+
+## 📊 Key Metrics
+
+| Metric | Value |
+|------|------|
+| **Total Employees** | 1470 |
+| **Total Attrition** | 237 |
+| **Employees Retained** | 1233 |
+| **Attrition Rate** | 16.12% |
+
+These KPIs provide a quick overview of the organization’s workforce stability and attrition level.
+
+---
+
+## 📈 Dashboard Features
+
+### 🔎 Interactive Filters
+Users can dynamically filter the dashboard using:
+
+- Department
+- Gender
+- Job Role
+
+This allows deeper exploration of attrition patterns.
+
+---
+
+### 📊 Attrition Analysis
+
+The dashboard provides multiple analytical views:
+
+- **Attrition Rate by Department**
+- **Total Attrition by Job Role**
+- **Attrition by Age Group**
+- **Attrition by Salary Level**
+
+These visualizations help identify high-risk areas in the organization.
+
+---
+
+## 📊 Key Business Insights
+
+- **Sales department has the highest attrition rate (20.63%)**, indicating potential workload or management challenges.
+- **Employees aged 25–34 represent the largest attrition group**, suggesting higher turnover among early-career professionals.
+- **Low salary employees contribute the highest attrition numbers**, highlighting compensation as a possible retention factor.
+- **Laboratory Technicians and Sales Executives show the highest job-role attrition**, indicating role-specific retention challenges.
+- The **overall attrition rate of 16.12%** suggests moderate employee churn within the organization.
+
+---
+
+## 🛠 Tools & Technologies Used
+
+- **Power BI Desktop**
+- **Data Visualization**
+- **DAX Measures**
+- **Data Analysis**
+- **Interactive Dashboard Design**
+
+---
+
+## 📂 Dataset
+
+The dataset used for this project contains employee information such as:
+
+- Department
+- Job Role
+- Age
+- Gender
+- Salary Level
+- Attrition Status
+
+Dataset file:
+
+dataset/hr_employee_attrition.csv
+
+---
+
+## 💡 Business Value
+
+This dashboard helps organizations:
+
+- Identify departments with high employee turnover
+- Understand demographic attrition patterns
+- Analyze salary-based attrition trends
+---
+
+## 👨‍💻 Author
+
+**V. Venkata Meghanath**
+
+Aspiring **Data Analyst | Power BI Enthusiast**
+
+🔗 GitHub  
+https://github.com/meghanath0225/Power-Bi
+
+---
