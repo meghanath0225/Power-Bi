@@ -30,6 +30,8 @@ If you don't have Power BI Desktop installed, you can download it here:
 
 https://powerbi.microsoft.com/desktop/
 
+---
+
 ## 🎯 Project Objectives
 
 The main objectives of this project are:
