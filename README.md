@@ -133,6 +133,7 @@ This dashboard helps organizations:
 
 This dashboard identifies key drivers of employee attrition, highlighting high-risk departments, job roles, and salary segments.  
 It enables HR teams to quickly detect turnover patterns and take proactive, data-driven actions to improve employee retention and workforce stability.
+
 ---
 
 ## 📁 Project Structure
@@ -148,6 +149,7 @@ Power-Bi
 ├── HR Analytics & Attrition Dashboard.pbix
 │
 └── README.md
+
 ---
 
 🔗 GitHub  
