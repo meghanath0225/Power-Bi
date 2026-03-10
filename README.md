@@ -115,6 +115,11 @@ This dashboard helps organizations:
 - Analyze salary-based attrition trends
 ---
 
+## 📊 Project Outcome
+
+This dashboard identifies key drivers of employee attrition, highlighting high-risk departments, job roles, and salary segments.  
+It enables HR teams to quickly detect turnover patterns and take proactive, data-driven actions to improve employee retention and workforce stability.
+
 ## 👨‍💻 Author
 
 **V. Venkata Meghanath**
