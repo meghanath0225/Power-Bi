@@ -9,27 +9,6 @@ The **HR Attrition Analytics Dashboard** is an interactive **Power BI data analy
 This dashboard enables HR teams to monitor workforce trends, detect high-risk employee groups, and make **data-driven decisions to improve employee retention strategies**.
 
 The analysis focuses on employee attrition across multiple dimensions including **department, job role, age group, and salary level**.
-
----
-
-## 📷 Dashboard Preview
-
-![alt text](image.png)
-
----
-
-## ▶ How to View the Dashboard
-
-To explore this dashboard:
-
-1. Download the **Power BI file (.pbix)** from this repository.
-2. Open the file using **Microsoft Power BI Desktop**.
-3. Use the interactive filters (Department, Gender, Job Role) to explore employee attrition insights.
-
-If you don't have Power BI Desktop installed, you can download it here:
-
-https://powerbi.microsoft.com/desktop/
-
 ---
 
 ## 🎯 Project Objectives
@@ -103,17 +82,6 @@ These visualizations help identify high-risk areas in the organization.
 
 ---
 
-## 📍 Data Source
-
-The dataset used in this project is the **IBM HR Analytics Employee Attrition dataset** available on Kaggle.
-
-It contains employee information such as age, department, job role, salary level, and attrition status, which was used to analyze workforce trends and build the Power BI dashboard.
-
-Dataset Source:  
-https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-
----
-
 ## 💡 Business Value
 
 This dashboard helps organizations:
@@ -121,12 +89,6 @@ This dashboard helps organizations:
 - Identify departments with high employee turnover
 - Understand demographic attrition patterns
 - Analyze salary-based attrition trends
----
-
-## 📊 Project Outcome
-
-This dashboard identifies key drivers of employee attrition, highlighting high-risk departments, job roles, and salary segments.  
-It enables HR teams to quickly detect turnover patterns and take proactive, data-driven actions to improve employee retention and workforce stability.
 
 ---
 
@@ -143,6 +105,44 @@ Power-Bi
 ├── HR Analytics & Attrition Dashboard.pbix
 │
 └── README.md
+
+---
+
+## 📷 Dashboard Preview
+
+![alt text](image.png)
+
+---
+
+## ▶ How to View the Dashboard
+
+To explore this dashboard:
+
+1. Download the **Power BI file (.pbix)** from this repository.
+2. Open the file using **Microsoft Power BI Desktop**.
+3. Use the interactive filters (Department, Gender, Job Role) to explore employee attrition insights.
+
+If you don't have Power BI Desktop installed, you can download it here:
+
+https://powerbi.microsoft.com/desktop/
+
+---
+
+## 📍 Data Source
+
+The dataset used in this project is the **IBM HR Analytics Employee Attrition dataset** available on Kaggle.
+
+It contains employee information such as age, department, job role, salary level, and attrition status, which was used to analyze workforce trends and build the Power BI dashboard.
+
+Dataset Source:  
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+---
+
+## 📊 Project Outcome
+
+This dashboard identifies key drivers of employee attrition, highlighting high-risk departments, job roles, and salary segments.  
+It enables HR teams to quickly detect turnover patterns and take proactive, data-driven actions to improve employee retention and workforce stability.
 
 ---
 
