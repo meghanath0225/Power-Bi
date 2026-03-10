@@ -103,20 +103,14 @@ These visualizations help identify high-risk areas in the organization.
 
 ---
 
-## 📂 Dataset
+## 📍 Data Source
 
-The dataset used for this project contains employee information such as:
+The dataset used in this project is the **IBM HR Analytics Employee Attrition dataset** available on Kaggle.
 
-- Department
-- Job Role
-- Age
-- Gender
-- Salary Level
-- Attrition Status
+It contains employee information such as age, department, job role, salary level, and attrition status, which was used to analyze workforce trends and build the Power BI dashboard.
 
-Dataset file:
-
-dataset/hr_employee_attrition.csv
+Dataset Source:  
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ---
 
