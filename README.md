@@ -129,12 +129,8 @@ https://powerbi.microsoft.com/desktop/
 
 ## 📍 Data Source
 
-The dataset used in this project is the **IBM HR Analytics Employee Attrition dataset** available on Kaggle.
-
-It contains employee information such as age, department, job role, salary level, and attrition status, which was used to analyze workforce trends and build the Power BI dashboard.
-
-Dataset Source:  
-https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+IBM HR Analytics & Attrition dataset from Kaggle
+(Used to derive insights and build the dashboard.)
 
 ---
 
