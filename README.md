@@ -18,6 +18,18 @@ The analysis focuses on employee attrition across multiple dimensions including 
 
 ---
 
+## ▶ How to View the Dashboard
+
+To explore this dashboard:
+
+1. Download the **Power BI file (.pbix)** from this repository.
+2. Open the file using **Microsoft Power BI Desktop**.
+3. Use the interactive filters (Department, Gender, Job Role) to explore employee attrition insights.
+
+If you don't have Power BI Desktop installed, you can download it here:
+
+https://powerbi.microsoft.com/desktop/
+
 ## 🎯 Project Objectives
 
 The main objectives of this project are:
@@ -120,11 +132,19 @@ This dashboard helps organizations:
 This dashboard identifies key drivers of employee attrition, highlighting high-risk departments, job roles, and salary segments.  
 It enables HR teams to quickly detect turnover patterns and take proactive, data-driven actions to improve employee retention and workforce stability.
 
-## 👨‍💻 Author
-
-**V. Venkata Meghanath**
-
-Aspiring **Data Analyst | Power BI Enthusiast**
+## 📁 Project Structure
+Power-Bi
+│
+├── dashboard
+│   └── image.png
+│
+├── dataset
+│   ├── hr_attrition_cleaned_data.csv
+│   └── hr_employee_attrition.csv
+│
+├── HR Analytics & Attrition Dashboard.pbix
+│
+└── README.md
 
 🔗 GitHub  
 https://github.com/meghanath0225/Power-Bi
